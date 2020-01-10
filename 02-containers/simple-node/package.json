@@ -1,0 +1,13 @@
+{
+  "name": "simple-node",
+  "version": "1.0.0",
+  "description": "A simple application for Kubernetes up and Running",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "ADuss",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
